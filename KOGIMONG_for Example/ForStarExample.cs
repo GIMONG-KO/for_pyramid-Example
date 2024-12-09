@@ -53,6 +53,10 @@ public class ForStarExample : MonoBehaviour
         Debug.Log(pyramid); // Unity 콘솔에 출력
     }
 
+   //    *
+   //   **
+   //  *** 형태의 피라미드
+   
     void PrintPyramid3(int height)
     {
         string pyramid = "";
